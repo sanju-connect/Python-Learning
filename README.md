@@ -1,2 +1,1 @@
-# Python_Learning
-The Repo For Learning Python Languages
+All Kind of Thing Learned Through Python Programming Language
